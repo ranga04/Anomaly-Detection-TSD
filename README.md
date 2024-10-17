@@ -1,7 +1,9 @@
 # Anomaly-Detection-TSD
 
 Anomaly Detection in Time Series Data Using LSTM with Attention
+
 Overview
+
 This project focuses on detecting anomalies in time series data using Long Short-Term Memory (LSTM) networks with an attention mechanism. The project includes several key elements such as model hyperparameter tuning, advanced evaluation metrics, and anomaly visualization. The objective is to improve anomaly detection by enhancing the model’s ability to focus on relevant parts of the time series through attention mechanisms.
 
 Key Features:
