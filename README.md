@@ -1,6 +1,6 @@
-Here’s a README file code that you can directly paste into your repository:
 
-```markdown
+
+
 # Anomaly Detection in Time Series Data Using LSTM with Attention
 
 ## Overview
@@ -50,6 +50,4 @@ Feel free to fork this repository and submit pull requests if you have any sugge
 
 ## License
 This project is licensed under the MIT License.
-```
 
-You can paste this directly into your `README.md` file on GitHub or any other repository management system. Let me know if you need further modifications!
